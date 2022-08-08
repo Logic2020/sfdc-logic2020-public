@@ -9,16 +9,16 @@ The repository is layed out as an SFDX project. This format is for the convenien
 - ![SandboxAdminEmail Usage](img/SandboxOptionsApexClass.png)
 
 ## On the Logic20/20 site
-[https://www.logic2020.com/insight/tactical/low-code-no-code-considerations](5 points to consider about low-code/no-code (LCNC) solutions)
+<a href="https://www.logic2020.com/insight/tactical/low-code-no-code-considerations">5 points to consider about low-code/no-code (LCNC) solutions</a>
 
-[https://www.logic2020.com/insight/tactical/salesforce-webhook-listener](A quick and simple Salesforce webhook listener)
+<a href="https://www.logic2020.com/insight/tactical/salesforce-webhook-listener">A quick and simple Salesforce webhook listener</a>
 
-[https://www.logic2020.com/insight/tactical/salesforce-unlocked-packages](A simple Salesforce Package cheat sheet)
+<a href="https://www.logic2020.com/insight/tactical/salesforce-unlocked-packages">A simple Salesforce Package cheat sheet</a>
 
-[https://www.logic2020.com/insight/tactical/how-tackle-sfdc-sap-integration-from-heck](How we tackled the SFDC-SAP "Integration from Heck")
+<a href="https://www.logic2020.com/insight/tactical/how-tackle-sfdc-sap-integration-from-heck">How we tackled the SFDC-SAP "Integration from Heck</a>
 
-[https://www.logic2020.com/insight/tactical/how-to-set-up-self-registration-in-a-salesforce-community](How to set up self-registration in a Salesforce community)
+<a href="https://www.logic2020.com/insight/tactical/how-to-set-up-self-registration-in-a-salesforce-community">How to set up self-registration in a Salesforce community</a>
 
-[https://www.logic2020.com/insight/tactical/sfdx-vscode-and-deploying-from-a-package](SFDX, VSCode, and deploying from a package)
+<a href="https://www.logic2020.com/insight/tactical/sfdx-vscode-and-deploying-from-a-package">SFDX, VSCode, and deploying from a package</a>
 
-[https://www.logic2020.com/insight/tactical/how-to-install-custom-components-salesforce-trailhead-playground-orgs](How to install custom components in Salesforce Trailhead Playground Orgs)
+<a href="https://www.logic2020.com/insight/tactical/how-to-install-custom-components-salesforce-trailhead-playground-orgs">How to install custom components in Salesforce Trailhead Playground Orgs</a>
