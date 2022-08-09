@@ -9,7 +9,7 @@ The repository is layed out as an SFDX project. This format is for the convenien
 - [Enabling all Admin Emails in new Sandboxes](README.SandboxAdminEmail.md)
 
 ## On the Logic20/20 site
-<a href="https://www.logic2020.com/insight/tactical/low-code-no-code-considerations">5 points to consider about low-code/no-code (LCNC) solutions</a>
+<a href="https://www.logic2020.com/insight/tactical/low-code-no-code-considerations" target="_blank">5 points to consider about low-code/no-code (LCNC) solutions</a>
 
 <a href="https://www.logic2020.com/insight/tactical/salesforce-webhook-listener">A quick and simple Salesforce webhook listener</a>
 
