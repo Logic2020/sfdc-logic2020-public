@@ -4,9 +4,9 @@ Our architects and developers seldom have time after a project completes to shar
 The repository is layed out as an SFDX project. This format is for the convenience of testing before publishing. Our recommendation is to use the latest Salesforce SFDX project template for your own projects and only copy individual, useful artifcats from here as needed.
 
 ## In this repository...
-- [Frequently used Salesforce CLI commands](/sfdx-cli-common-commands.md)
+- [Frequently used Salesforce CLI commands](sfdx-cli-common-commands.md)
 
-- ![SandboxAdminEmail Usage](img/SandboxOptionsApexClass.png)
+- [Enabling all Admin Emails in new Sandboxes](README.SandboxAdminEmail.md)
 
 ## On the Logic20/20 site
 <a href="https://www.logic2020.com/insight/tactical/low-code-no-code-considerations">5 points to consider about low-code/no-code (LCNC) solutions</a>
