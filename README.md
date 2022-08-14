@@ -1,5 +1,9 @@
 # Welcome to the Logic20/20 Public SFDC/X Repo
-Our architects and developers seldom have time after a project completes to share tips, shortcuts, and pre-built components to the public before moving on to the next project. When they do, or take some personal time to contribute, the results will be published here. Currently, there are only two artifacts of note, though we think they are really useful:
+*Logic20/20 is proud to be a Salesforc.com Consulting Partner. See [https://www.logic2020.com/salesforce](https://www.logic2020.com/salesforce) for more information about how we help Salesforce.com help business like yours.*
+
+Our architects and developers seldom have time after a project completes to share tips, shortcuts, and pre-built components to the public before moving on to the next project. When they do, or take some personal time to contribute, the results will be published here. 
+
+Currently, there are only two artifacts of note, though we think they are really useful:
 
 - [Frequently used Salesforce CLI commands](sfdx-cli-common-commands.md)
 - [Enabling all Admin Emails in new Sandboxes](README.SandboxAdminEmail.md)
